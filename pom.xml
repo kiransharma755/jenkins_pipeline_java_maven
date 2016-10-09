@@ -6,6 +6,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins_pipeline_java_maven</name>
 	<description>Jenkinsfile within a java project</description>
+	<source>1.6</source>
+        <target>1.6</target>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
